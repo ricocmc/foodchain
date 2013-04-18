@@ -4,7 +4,7 @@ try:
 	db = MySQLdb.connect(
 		host = 'localhost',
 		user = 'root',
-		passwd = '0178894',
+		passwd = '123456',
 		db = 'python'
 	)
 except Exception as e:
